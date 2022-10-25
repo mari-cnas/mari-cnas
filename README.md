@@ -1,4 +1,4 @@
-## Oiii eu sou a Mariana
+## Hiii I'm Mariana
 
 - 🔭 I’m currently working on maintenance planning and control at Coca-cola Femsa
 - 🌱 I’m currently learning typescript
