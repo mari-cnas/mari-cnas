@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on maintenance planning and control at Coca-Cola Femsa and planning a career transition to web development
 - ❤ I love tech stuff, coding and arts
-- 🌱 I’m currently improving my React skills and learning angular
+- 🌱 I’m currently improving my React skills and learning Angular
 - 👯 I’m looking to collaborate on web development using these languages
 
  
 <details>
-  <summary> ## Things to know about me! <i>(click to expand!)</i> </summary>
+  <summary> Things to know about me! <i>(click to expand!)</i> </summary>
   
   <br>
 
